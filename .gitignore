@@ -1,0 +1,8 @@
+*.jpg
+*.data
+./models/
+./tmp/
+*finetune
+*.DS_Store
+*.JPG
+*.png
